@@ -62,4 +62,8 @@ The SHAP analysis provided a clear and consistent global interpretation, reveali
 
 These features consistently ranked as the most important across different SHAP explainers, building confidence in the model's reliability and interpretability.
 
+<img width="816" height="593" alt="image" src="https://github.com/user-attachments/assets/c1789139-4e4f-4768-bb67-fedab0aa7fb3" />
+
+<img width="1134" height="551" alt="image" src="https://github.com/user-attachments/assets/f285cdb4-0696-4182-af33-aa52265a6b08" />
+
 ---
