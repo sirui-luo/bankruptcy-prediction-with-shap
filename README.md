@@ -1,6 +1,6 @@
 # bankruptcy-prediction-with-shap
 
-# Interpretable Bankruptcy Prediction using Machine Learning 📊
+# Interpretable Bankruptcy Prediction using Machine Learning
 
 This repository contains a Python project that uses machine learning models to predict corporate bankruptcy based on financial ratios. The core focus is on using SHAP (SHapley Additive exPlanations) to interpret the model's predictions, making the results transparent and actionable.
 
